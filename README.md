@@ -16,9 +16,11 @@
 
 
 > git add .
+
 > git commit -m "Your detailed description of your changes."
+
 > git push origin name-of-your-bugfix-or-feature
-> 
+ 
 * Submit a pull request through the GitHub website.
 
 #### When contributing a bug fix:
